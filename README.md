@@ -23,12 +23,13 @@
     <img src="https://github.com/Novia-ND/Portfolio-Using-Js-and-Bootstap/blob/master/screenshots/Screenshot%20from%202020-08-14%2019-55-20.png?raw=true" alt="Logo" width="800" height="400">
     </a></p>
    
- 
+
+<p align="center"> 
   <a href="">
     <img src="https://github.com/Novia-ND/Portfolio-Using-Js-and-Bootstap/blob/master/screenshots/Screenshot%20from%202020-08-14%2019-55-23.png?raw=true" alt="Logo" width="800" height="400">
     </a></p>
   
-    <p align="center">
+<p align="center">
   <a href="">
     <img src="https://github.com/Novia-ND/Portfolio-Using-Js-and-Bootstap/blob/master/screenshots/Screenshot%20from%202020-08-14%2021-04-03.png?raw=true" alt="Logo" width="800" height="400">
     </a></p>
