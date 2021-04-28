@@ -1,4 +1,4 @@
-# Portfolio using JS and Bootstrap
+# Novia Dsilva Portfolio 
 <!-- PROJECT LOGO -->
 <h3>This is a repository consisting of portfolio built only with JS and Bootsrap</h3>
   <h3 align="center"></h3>
